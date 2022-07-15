@@ -1,0 +1,25 @@
+1. What are the supported data types in Python?
+-Binary Types
+-Boolean Type
+-Sequence Types
+-Numeric Types
+-Text Type
+2. What is the difference between tuples and lists in Python?
+The difference between the tuples and lists is that  tuples cannot be changed while the lists can be modified.
+3. What are Python decorators?
+
+4. What are generators in Python?
+
+5. What are shallow and deep copy operations?
+
+6. Explain Dependency Injection?
+
+It is what we know as environment variables.
+
+7. Explain how you can make a Python Script executable on Unix?
+The first line in the script is added
+1.- #!/usr/bin/env python
+Execute permissions are given
+2.- chmod +x myfile.py
+The script is executed
+3.- ./myfile.py
