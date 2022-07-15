@@ -11,7 +11,8 @@ A decorator is a function which takes as input a function and in turn returns an
 4. What are generators in Python?
 Generators are iterators, but they can only be iterated once. This is because they do not store all the values in memory, but rather generate them as they are used.
 5. What are shallow and deep copy operations?
-
+shaloow copy only copy the reference of memory 
+deep copy create a copy of the object whit a new refence of memory
 6. Explain Dependency Injection?
 It is what we know as environment variables.
 7. Explain how you can make a Python Script executable on Unix?
